@@ -2,7 +2,7 @@
 
 This is a TCP-based application that is implemented in two programs, namely a client program and a server program.
 
-The client can be used to send a line of text to the server. The echo server would then modify the received line of text, capitlizing its letters, and then send the modified line back to the client.
+The client can be used to send a line of text to the server. The echo server would then modify the received line of text, capitlize its letters, and then send the modified line back to the client.
 
 ## Technologies Used
 
